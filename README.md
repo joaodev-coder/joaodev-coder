@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o João Vitor! 👋
 
-<!--
-**joaodev-coder/joaodev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de ADS | Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Estou aprendendo programação do zero, com foco em desenvolvimento web full stack. Cada projeto que faço é um passo a mais na minha jornada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 O que estou aprendendo
+- HTML, CSS e JavaScript
+- Lógica de programação
+- Git e GitHub
+
+---
+
+### 📁 Projetos
+- [Calculadora](https://joaodev-coder.github.io/calculadora/) - Minha primeira calculadora em HTML, CSS e JavaScript
+
+---
+
+### 📫 Contato
+- Email: eujoaov.777@gmail.com
